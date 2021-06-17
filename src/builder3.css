@@ -1,0 +1,24 @@
+/*
+button {
+    background: none;
+    border: solid 0.5px #ef8661;
+    border-radius: 10px;
+    box-shadow: none;
+    text-shadow: none;
+    font-size: 22px;
+    font-weight: lighter;
+    color: black;
+}
+
+#ok_button {
+    background-color: green;
+}
+
+#cancel_button {
+    background-color: #1b87ff;
+}
+*/
+button {
+    font-size: 22px;
+    font-weight: lighter;
+}
